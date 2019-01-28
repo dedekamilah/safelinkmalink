@@ -1,0 +1,2 @@
+# safelinkmalink
+file.js
